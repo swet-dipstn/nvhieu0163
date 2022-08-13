@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in You
  
-- 🌱 I’m currently learning Data Science/Engineer, Big Data, Machine Learning
+- 🌱 I’m currently learning Data Mining, Data Analyst/Science/Engineer, Big Data, Machine Learning
 
 - 💞️ I’m looking to collaborate on DS&KT lab
  
