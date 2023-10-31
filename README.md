@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @nvhieu0163
 
-- 👀 I’m interested in You
+- 👀 I’m interested in learning new things
  
 - 🌱 I’m currently learning Data Mining, Data Analyst/Science/Engineer, Big Data, Machine Learning
 
-- 💞️ I’m looking to collaborate on DS&KT lab
+- 💞️ I’m looking to collaborate on the DS&KT lab
  
 - 📫 How to reach me (Đoán xem)
 
