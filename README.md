@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @nvhieu0163
+- 👋 Hi, I’m @swet-dipstn. My name is Hieu Nguyen Vu.
 
-- 👀 I’m interested in learning new things
+- 🏫 I'm a Computer Science graduate student at UET-VNU, Vietnam. And currently working as a Data Engineer at a securities company in Hanoi.
  
-- 🌱 I’m currently learning Data Mining, Data Analyst/Science/Engineer, Big Data, Machine Learning
+- 🌱 My main areas of research and work are Data Mining, Data Analysis/Science/Engineering, Big Data, and Machine Learning.
 
-- 💞️ I’m looking to collaborate on the DS&KT lab
+- 😻 I’m interested in learning new things, playing sports, and spending time with my family.
+
+- 💞️ I’m looking to collaborate on
  
 - 📫 How to reach me (Đoán xem)
 
