@@ -4,8 +4,6 @@
  
 - 🌱 My main areas of research and work are Data Mining, Data Analysis/Science/Engineering, Big Data, and Machine Learning.
 
-- 😻 I’m interested in learning new things, playing sports, and spending time with my family.
-
 - 💞️ I’m looking to collaborate on
  
 - 📫 How to reach me (Đoán xem)
